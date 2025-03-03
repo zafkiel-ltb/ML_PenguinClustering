@@ -17,12 +17,10 @@ The [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/) co
 - Chinstrap
 
 Features include:
-- Island location
 - Bill length, depth
 - Flipper length
 - Body mass
 - Sex
-- Year
 
 ## 🔧 Setup and Installation
 
